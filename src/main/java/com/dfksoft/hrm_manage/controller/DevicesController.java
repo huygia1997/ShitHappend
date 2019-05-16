@@ -44,4 +44,5 @@ public class DevicesController {
 
         return "devices";
     }
+
 }
